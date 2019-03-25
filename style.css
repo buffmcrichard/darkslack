@@ -2063,7 +2063,7 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
 .c-pillow_file_container .c-pillow_file__swap .c-pillow_file__slide { background-color: #000; }
 
-.c-button-unstyled.c-pillow_file__snippet.c-pillow_file__content.c-pillow_file__content--collapsed.c-pillow_file__snippet--collapsed::after { background: linear-gradient(0deg,#000,hsla(0,0%,100%,0) 40px); }
+.c-button-unstyled.c-pillow_file__snippet.c-pillow_file__content.c-pillow_file__content--collapsed.c-pillow_file__snippet--collapsed::after { background: #000; }
 
 .c-pillow_file__description, .c-pillow_file__title { color: #e6e6e6; }
 
