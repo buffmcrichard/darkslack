@@ -2059,9 +2059,11 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
 .p-file_details__meta_container .c-file__action_button { color: #fff; }
 
-.c-pillow_file_container { background-color: #000; }
+._file_container { background-color: #000; }
 
 .c-pillow_file_container .c-pillow_file__swap .c-pillow_file__slide { background-color: #000; }
+
+.c-pillow_file__content--collapsed:after { background: linear-gradient(0deg,#fff,hsla(0,0%,100%,0) 40px); }
 
 .c-pillow_file__description, .c-pillow_file__title { color: #e6e6e6; }
 
